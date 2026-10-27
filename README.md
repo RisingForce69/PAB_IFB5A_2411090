@@ -12,7 +12,7 @@ WIP
 WIP
 
 ## Teknologi/Framework
-WIP
+Kotlin
 
 ## Repository
 GitHub: https://github.com/RisingForce69/PAB_IFB5A_2411090
